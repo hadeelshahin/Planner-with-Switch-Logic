@@ -20,10 +20,9 @@ Clicking on the "More Info" button allows users to access additional information
 #Switching Button Captions:
 The switch buttons dynamically update their captions ("Finish" or "Activate") based on the current state of the project.
 ![Screenshot (17)](https://github.com/hadeelshahin/Planner-with-Switch-Logic/assets/106568841/4db865a6-b8df-4ad4-bbb1-575d0eca92c8)
+![Screenshot (18)](https://github.com/hadeelshahin/Planner-with-Switch-Logic/assets/106568841/7d66d045-bc5a-4c7a-919d-fbe5991a4d37)
 
 
-![Screenshot (18)](https://github.com/hadeelshahin/Planner-with-Switch-
-Logic/assets/106568841/75faea13-f76a-4148-a423-c8d7fab289a4)
 ![Screenshot (19)](https://github.com/hadeelshahin/Planner-with-Switch-Logic/assets/106568841/54e7b71a-8f9e-4b5d-9662-d22c80617fc7)
 ![Screenshot (20)](https://github.com/hadeelshahin/Planner-with-Switch-Logic/assets/106568841/5feb262e-4333-469b-8e9d-f1918d6291c8)
 ![Screenshot (21)](https://github.com/hadeelshahin/Planner-with-Switch-Logic/assets/106568841/a3919fb3-a092-4126-a808-0a718fa14ecc)
